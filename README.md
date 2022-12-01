@@ -3,10 +3,10 @@
 <h4 align="center"> The Generalized Extreme Value Distributions in Racket. </h4>
 
 <p align="center">
-    <a href="https://github.com/HaeckGabriel/gev-distribution/releases/tag/gev-distribution">
+  <a href="https://pkgd.racket-lang.org/pkgn/package/gev-distribution">
     <img src="https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=Racket">
   </a>
-  <a href="https://pkgd.racket-lang.org/pkgn/package/gev-distribution">
+  <a href="https://github.com/HaeckGabriel/gev-distribution/releases/tag/gev-distribution">
     <img src="https://img.shields.io/github/downloads/HaeckGabriel/gev-distribution/total?label=Downloads&logo=Github&style=for-the-badge&color=blue">
   </a>
 </p>

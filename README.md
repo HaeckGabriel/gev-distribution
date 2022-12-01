@@ -12,7 +12,12 @@ Basic Distributional Quantities (CDF, PDfF, Quantile and Random Generation) for 
 
 <p align="center">
   <a href="#Installation">Installation</a> •
+  <a href="#Details">Details</a>
 </p>
 
 ## Installation
 You can install the package with `raco pkg install gev-distribution`.
+
+## Details
+
+This package provides the cumulative distribution function (CDF), probability density function (PDF), quantile or inverse-CDF function and random generation for each of the four following distributions: <i>This text is italic</i>

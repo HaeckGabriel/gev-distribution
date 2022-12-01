@@ -1,6 +1,6 @@
-<h1 align="center"> GEV Distributions </h1>
+<h1 align="center"> GEV Distribution </h1>
 
-<h4 align="center"> The GEV Distributions in Racket. </h4>
+<h4 align="center"> The Generalized Extreme Value Distributions in Racket. </h4>
 
 <p align="center">
     <a href="https://github.com/HaeckGabriel/gev-distribution/releases/tag/gev-distribution">

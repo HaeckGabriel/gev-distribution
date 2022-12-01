@@ -6,7 +6,8 @@
 
 (provide gev-cdf
          gev-pdf
-         gev-quantile)
+         gev-quantile
+         gev-random)
 
 ;; $$ t(x) = \left( 1 + \zeta \left( \frac{x - loc}{ scale} \right) \right)^{- \frac{1}{\zeta}}$$ if $\zeta \neq 0$,
 ;; or $t(x) = \exp \left \{ - \frac{x - loc}{ scale}  \right \}$ if $\zeta = 0$.

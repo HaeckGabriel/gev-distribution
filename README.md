@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://pkgd.racket-lang.org/pkgn/package/gev-distribution">
-    <img src="https://img.shields.io/badge/Version-1.0.0-blue">
+    <img src="https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=Racket">
   </a>
   <a href="https://crates.io/crates/cppm">
   </a>

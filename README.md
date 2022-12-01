@@ -23,3 +23,7 @@ You can install the package with `raco pkg install gev-distribution`.
 This package provides the cumulative distribution function (CDF), probability density function (PDF), quantile or inverse-CDF function and random generation for each of the four following distributions: the <i>Gumbel</i>, <i>Fréchet</i>, <i>Inverse Weibull</i> and the <i>GEV</i> (Generalized Extreme Value) distributions.
 
 As such, the following functions are provided:
+* `gumbel-cdf`, `gumbel-pdf`, `gumbel-quantile` and `gumbel-random` for the Gumbel distribution;
+* `frechet-cdf`, `frechet-pdf`, `frechet-quantile` and `frechet-random` for the Fréchet distribution;
+* `inv-weibull-cdf`, `inv-weibull-pdf`, `inv-weibull-quantile` and `inv-weibull-random` for the (inverse) Weibull distribution;
+* `gev-cdf`, `gev-pdf`, `gev-quantile` and `gev-random` for the GEV distribution.

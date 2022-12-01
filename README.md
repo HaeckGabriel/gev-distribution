@@ -9,3 +9,13 @@
 </p>
 
 Basic Distributional Quantities (CDF, PDfF, Quantile and Random Generation) for the Gumbel, Fréchet, (inverse) Weibull and GEV Distributions.
+
+<p align="center">
+  <a href="#Installation">Installation</a> •
+</p>
+
+## Installation
+* Create a C++ project with a single command.
+* Manage Project Locations.
+* Opening Projects from any command line
+* Minimal C support 

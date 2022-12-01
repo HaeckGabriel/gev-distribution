@@ -7,3 +7,19 @@
 (require "dist/weibull.rkt")
 (require "dist/gev.rkt")
 
+(provide gumbel-cdf
+         gumbel-pdf
+         gumbel-quantile
+         gumbel-random
+         frechet-cdf
+         frechet-pdf
+         frechet-quantile
+         frechet-random
+         inv-weibull-cdf
+         inv-weibull-pdf
+         inv-weibull-quantile
+         inv-weibull-random
+         gev-cdf
+         gev-pdf
+         gev-quantile
+         gev-random)

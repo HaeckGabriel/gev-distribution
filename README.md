@@ -27,3 +27,5 @@ As such, the following functions are provided:
 * `frechet-cdf`, `frechet-pdf`, `frechet-quantile` and `frechet-random` for the Fréchet distribution;
 * `inv-weibull-cdf`, `inv-weibull-pdf`, `inv-weibull-quantile` and `inv-weibull-random` for the (inverse) Weibull distribution;
 * `gev-cdf`, `gev-pdf`, `gev-quantile` and `gev-random` for the GEV distribution.
+
+You can read more about the family of GEV Distributions [here](https://en.wikipedia.org/wiki/Generalized_extreme_value_distribution). 

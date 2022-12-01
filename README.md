@@ -6,8 +6,6 @@
   <a href="https://pkgd.racket-lang.org/pkgn/package/gev-distribution">
     <img src="https://img.shields.io/badge/Version-1.0.0-blueviolet?style=for-the-badge&logo=Racket">
   </a>
-  <a href="https://crates.io/crates/cppm">
-  </a>
 </p>
 
 Basic Distributional Quantities (CDF, PDfF, Quantile and Random Generation) for the Gumbel, Fréchet, (inverse) Weibull and GEV Distributions.

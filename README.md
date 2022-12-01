@@ -15,7 +15,4 @@ Basic Distributional Quantities (CDF, PDfF, Quantile and Random Generation) for 
 </p>
 
 ## Installation
-* Create a C++ project with a single command.
-* Manage Project Locations.
-* Opening Projects from any command line
-* Minimal C support 
+You can install the package with `raco pkg install gev-distribution`.

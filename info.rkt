@@ -5,7 +5,8 @@
 ;; version
 (define version "1.0")
 
-(define deps '("base"))
+(define deps '("base"
+               "typed-racket"))
 
  ;; build-dependencies
 (define build-deps '("scribble-lib"

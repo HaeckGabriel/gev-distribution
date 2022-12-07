@@ -36,7 +36,7 @@
 ;;(gumbel-pdf 0.6 0.5 2.0)
 
 ;; Quantile function of the Gumbel Distributions.
-;; $F^{-1}(x) = \mu - \theta \log \left ( - \log \left ( - \frac{x - \mu }{ \theta } \right ) \right )$
+;; $F^{-1}(x) = \mu - \theta \log \left ( - \log \left ( x \right ) \right )$
 (: gumbel-quantile (-> Flonum Positive-Flonum Flonum Flonum))
 (define (gumbel-quantile x mu theta)
   (if (or (fl< x 0.0) (fl> x 1.0)) (error "error Must consider a value between 0 and 1 for the quantile function.")

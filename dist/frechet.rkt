@@ -37,7 +37,7 @@
 ;;(frechet-pdf 2.0 1.0 0.1 1.0)
 ;;
 ;; Fréchet quantile function.
-;; $$ F^{-1}(x) = loc + scale \left(- \log x \right )^{- \frac{2}{shape}} $$
+;; $$ F^{-1}(x) = loc + scale \left(- \log x \right )^{- \frac{1}{shape}} $$
 (: frechet-quantile (-> Flonum Positive-Flonum Positive-Flonum Flonum Flonum))
 (define (frechet-quantile x loc scale shape)
   (if (or (fl< x 0.0) (fl> x 1.0)) (error "error Must consider a value between 0 and 1 for the quantile function.")
